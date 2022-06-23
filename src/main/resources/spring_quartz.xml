@@ -10,7 +10,7 @@
 
     <!--
         Spring整合Quartz进行配置遵循下面的步骤：
-        1：定义工作任务的Job
+        1：定义工作任务的JobDetail
         2：定义触发器Trigger，并将触发器与工作任务绑定
         3：定义调度器，并将Trigger注册到Scheduler
      -->
